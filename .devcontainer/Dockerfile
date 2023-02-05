@@ -1,4 +1,4 @@
-FROM ghcr.io/sirherobrine23/mydockerimage:latest
+FROM ghcr.io/sirherobrine23/initjs:latest
 
 # Add non root user and Install oh my zsh
 ARG USERNAME="devcontainer"
